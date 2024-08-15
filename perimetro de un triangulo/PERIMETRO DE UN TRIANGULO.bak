@@ -1,0 +1,15 @@
+#include <iostream.h>
+#include <conio.h>
+#include <stdio.h>
+main ()
+{
+float l1,l2;                              /* halle el perimetro de un triangulo
+                                             cuya lado es 4 */
+float at;
+l1=4;
+l2=4;
+at=l1*l2;
+cout<<"el perimetro del triangulo es: "<<at;
+getch();
+return 0;
+}
