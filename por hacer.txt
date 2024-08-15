@@ -1,0 +1,2 @@
+realizar un programa que lea 2 numeros y diga el mayor
+realizar un programa que lea 3 numeros y diga cual es el mayor y cual es el menor

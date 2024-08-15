@@ -1,0 +1,37 @@
+funciones == metodos
+-del programador
+
+
+
+
+_propios del sistema
+cos,sen,abs, tong,sqrt,sqr
+.(taller investigar)
+
+
+
+nombre-funcion ( ) {
+-
+-
+-
+-
+)
+
+
+
+
+main( ) {
+nombre-funcion()
+
+}
+
+
+es un subprograma que es llamado del programa principal
+(main) es la funcion principal del sistema
+
+
+int main== el programa espera un tipo de dato entero
+void main== no retorna nada (vacio)
+
+
+La funcion que no renorna ni recibe valor (ni va ni viene

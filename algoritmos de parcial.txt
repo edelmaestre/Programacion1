@@ -1,0 +1,5 @@
+1.) realizar una busqueda binaria en un vector
+2.) definir un vector de tipo cadena cargar una palabra y decir si esa palabra es palindrome
+3.) leer un numero entero y convertirlo en binario usando vectores
+4.) cargue una palabra en un vector y comparela con otra palabra. si son iguales decir 
+puede procesar su informacion; si son diferestes decir acceso denegado.
