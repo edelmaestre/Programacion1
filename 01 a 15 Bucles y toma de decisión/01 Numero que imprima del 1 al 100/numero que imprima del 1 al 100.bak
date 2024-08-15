@@ -1,0 +1,16 @@
+#include <iostream.h>
+#include <stdio.h>
+#include <conio.h>
+
+main(){
+int a,b;
+
+for(a=1;a<=100;a++)  {
+
+cout<<a<<endl;
+
+}
+
+getch();
+return 0;
+}
